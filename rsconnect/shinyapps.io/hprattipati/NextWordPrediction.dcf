@@ -1,0 +1,12 @@
+name: NextWordPrediction
+title: NextWordPrediction
+username:
+account: hprattipati
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 937888
+bundleId: 2095481
+url: https://hprattipati.shinyapps.io/NextWordPrediction/
+when: 1558321239.63861
+asMultiple: FALSE
+asStatic: FALSE
